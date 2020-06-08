@@ -1,21 +1,5 @@
 ----------------------------------------------------------------------------------
--- Company: 
--- Engineer: 
--- 
--- Create Date: 11.12.2018 12:41:40
--- Design Name: 
--- Module Name: randomBitGen - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
+--a pseudo-random number generator based on the internal clock of the FPGA
 ----------------------------------------------------------------------------------
 
 
