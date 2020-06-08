@@ -4,13 +4,13 @@ Video demonstration of the project: [https://www.youtube.com/watch?v=6Eb62zR2iM8
 
 ## Gameplay Images:
 * Start Screen
-![](Qbert-in-VHDL/images/Start Screen.jpeg)
+![](images/Start Screen.jpeg)
 * During Gameplay
-![](Qbert-in-VHDL/images/During Gameplay.jpeg)
+![](images/During Gameplay.jpeg)
 * Game Over
-![](Qbert-in-VHDL/images/Game Over.jpeg)
+![](images/Game Over.jpeg)
 * You Win
-![](Qbert-in-VHDL/images/You Win.jpeg)
+![](images/You Win.jpeg)
 
 
 The project files are highly disorganised as is, the files that may prove useful or meaningful can be found in: [new](https://github.com/Ertugrulmert/Qbert-in-VHDL/tree/master/final%20changes.srcs/sources_1/new)
