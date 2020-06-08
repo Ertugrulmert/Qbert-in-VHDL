@@ -4,12 +4,19 @@ Video demonstration of the project: [https://www.youtube.com/watch?v=6Eb62zR2iM8
 
 ## Gameplay Images:
 * Start Screen
+
 ![](images/Start Screen.jpeg)
+
 * During Gameplay
+
 ![](images/During Gameplay.jpeg)
+
 * Game Over
+
 ![](images/Game Over.jpeg)
+
 * You Win
+
 ![](images/You Win.jpeg)
 
 
