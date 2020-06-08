@@ -1,4 +1,6 @@
-
+----------------------------------------------------------------------------------
+--includes the bulk of the game code, all game mechanics are implemented here
+----------------------------------------------------------------------------------
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
@@ -84,6 +86,7 @@ component Drawing is
 
 
 begin
+--  buttonPress functionality was found to be redundant, but it is kept for future reference
 --  debouncecomp: buttonPress port map(
 --       butclk => clk,
 --       UR => buttonUR,
